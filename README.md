@@ -1,0 +1,2 @@
+# psxscammtrade
+Psx/scammtrade
